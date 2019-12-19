@@ -1,0 +1,67 @@
+{
+    "name": "Mobypicture Dev Team",
+    "description": "Share your adventures in Photo, Video and Audio on all your social networks. We support Twitter, Facebook, FB Pages (new!), Flickr, Youtube, Google+ and 20 more",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2200-mobypicture-dev-team.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "netherlands",
+        "photos",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mobypicture-dev-team\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mobypicture Dev Team",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2200-mobypicture-dev-team.jpg",
+            "humanURL": "http:\/\/www.mobypicture.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mobypicture-dev-team-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mobypicture-dev-team-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/mathys.vanabbe.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developers.mobypicture.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mobypicture"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mobypicture"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mobydev"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mobypicture"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mobypicture.com\/"
+        }
+    ]
+}
